@@ -98,18 +98,22 @@ h1 {
     margin: -.5rem;
     opacity: .9;
     height: 5rem;
+    align-content: center
 }
 
 h2{
-    margin: 0;
+     margin: 0;
     margin-top: 5rem;
+     margin-left: auto;
+    margin-right:auto;
+    float: center;
     padding: 0rem;
     position: absolute;
     text-align: center;
     font-size: 1.9rem;
     color: black;
     font-weight: lighter;
-    opacity: .8;
+    opacity: .7;
 }
 
 q{
