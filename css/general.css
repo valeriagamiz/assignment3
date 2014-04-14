@@ -1,0 +1,245 @@
+@charset "utf-8";
+
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+    
+    font-size: 100%;
+}
+body{
+    background-color: lightyellow;
+}
+
+img {
+	width: 100%;
+    display: block;
+}
+header {
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+}
+
+div{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: black;
+    margin: -.4rem;
+}
+.logo {
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+    padding:0;
+    float: center;
+}
+.nav-top {
+    clear: both;
+}
+
+.nav-top ul {
+    margin: -.4rem;;
+    padding: .2rem;
+    background-color:lightblue;
+    text-align: center;
+}
+
+.nav-top li {
+    margin: 0rem;
+    padding: 0;
+    display: inline;
+}
+
+article {
+    margin-top: 16rem;
+    padding: .2rem;
+    font-size: 1.1rem;
+    font-family: Tahoma,Georgia, serif;
+    overflow:hidden;
+}
+
+.nav-top a,
+.nav-top a:link,
+.nav-top a:visited {
+    display: inline-block;
+    margin: 0;
+    padding: 1.3rem 10%;
+    color: black;
+    font-size: 2rem;
+    text-decoration:overline;
+}
+
+.selected {
+    background-color: lightblue;
+}
+
+h1 {
+    margin: -.5rem;
+    opacity: .9;
+    height: 5rem;
+}
+
+h2{
+    margin: 0.4rem;
+    padding: 2.3rem;
+    position: absolute;
+    text-align: center;
+    font-size: 1.9rem;
+    color: black;
+    font-weight: lighter;
+    opacity: .7;
+}
+
+q{
+    color:black;
+    font-weight: bolder;
+}
+
+h3{
+    text-align: center;
+    font-family: tahoma, serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    text-decoration:underline;
+    color: lightblue;
+    background-color: gray;
+}
+
+h4{
+    font-weight: lighter;
+    margin:0rem;
+}
+
+h5{
+    margin: -1rem;
+    margin-top: -7.3rem;
+    padding: 1.44rem;
+    position: absolute;
+    text-align: left;
+    font-family: tahoma, serif;
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+h6{
+    margin: -1rem;
+    margin-top: 1rem;
+    padding: 1.44rem;
+    text-align: left;
+    font-family: tahoma, serif;
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #2b8aa2;
+    position: relative;
+}
+
+h7{
+   margin-top: -1rem;
+    padding: .7rem;
+    background-color: black;
+    font-family: Tahoma ,serif;
+    font-weight:lighter;
+    color: white; 
+    position:absolute;
+    font-size: 4rem; 
+}
+
+.cow{
+    margin: -2re
+}
+
+.milk1{
+    margin-left: -9rem;
+    padding: 8rem;
+    
+}
+
+.milk2{
+    margin-left: -8.7rem;
+    margin-top: -16rem;
+    padding: 7.7rem;
+    
+}
+
+.milk3{
+    margin-left: -8.9rem;
+    margin-top: -16.3rem;
+    padding: 8rem; 
+}
+
+.milk4{
+    margin-left: -5.3rem;
+    margin-top: -13rem;
+    padding: 5rem;
+}
+
+h8{
+    position: absolute;
+    margin: 2rem;
+    margin-left: 8rem;
+    margin-top: -63rem; 
+    padding: 0;
+    font-size: 2rem;
+}
+
+h9{
+    position: absolute;
+    margin: 0;
+    margin-left: 6.3rem;
+    margin-top: -48rem; 
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+
+h10{
+    position: absolute;
+    margin: 0;
+    margin-left: 6.3rem;
+    margin-top: -29rem; 
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+
+h11{
+    position: absolute;
+    margin: 1rem;
+    margin-left: 13.7rem;
+    margin-top: -14rem; 
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+footer {
+    margin-top: 1rem;
+    padding:.7rem;
+    background-color: black;
+    font-family: Tahoma ,serif;
+    font-weight:lighter;
+    color: white; 
+}
+
+
+
+

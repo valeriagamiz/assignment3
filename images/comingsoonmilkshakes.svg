@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="597.199px" height="259.515px" viewBox="0 0 597.199 259.515" enable-background="new 0 0 597.199 259.515"
+	 xml:space="preserve">
+<rect x="0" y="0" opacity="0.8" fill="#588BC8" width="597.199" height="259.515"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.7207" y1="129.7577" x2="596.478" y2="129.7577">
+	<stop  offset="0" style="stop-color:#77C8F0;stop-opacity:0.9"/>
+	<stop  offset="0.201" style="stop-color:#75C3E9;stop-opacity:0.778"/>
+	<stop  offset="0.3387" style="stop-color:#72B9DA;stop-opacity:0.6944"/>
+	<stop  offset="0.4574" style="stop-color:#6CA9C4;stop-opacity:0.6223"/>
+	<stop  offset="0.5654" style="stop-color:#6394A9;stop-opacity:0.5568"/>
+	<stop  offset="0.6661" style="stop-color:#567A89;stop-opacity:0.4956"/>
+	<stop  offset="0.7615" style="stop-color:#455E66;stop-opacity:0.4377"/>
+	<stop  offset="0.8526" style="stop-color:#324044;stop-opacity:0.3824"/>
+	<stop  offset="0.9382" style="stop-color:#1A2021;stop-opacity:0.3304"/>
+	<stop  offset="0.9883" style="stop-color:#010101;stop-opacity:0.3"/>
+</linearGradient>
+<rect x="0.721" y="0.637" opacity="0.8" fill="url(#SVGID_1_)" width="595.757" height="258.241"/>
+<rect x="126.382" y="129.758" fill="none" width="382.755" height="98.252"/>
+<text transform="matrix(1 0 0 1 164.8446 175.3572)" fill="#010101" font-family="'Tahoma'" font-size="60">milkshakes.</text>
+<rect x="0.721" y="49.474" fill="none" width="596.478" height="160.568"/>
+<text transform="matrix(1 0 0 1 82.1338 94.8329)" fill="#010101" font-family="'Georgia-Bold'" font-size="60">Coming Soon!</text>
+</svg>
