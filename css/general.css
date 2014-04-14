@@ -46,7 +46,7 @@ header{
 .logo {
     margin-left:auto;
     margin-right:auto;
-    width:60%;
+    width:40%;
     padding:0;
     float: center;
 }
@@ -62,7 +62,7 @@ header{
 }
 
 .nav-top li {
-    margin: 0rem;
+    margin: 0;
     padding: 0;
     display: inline;
 }
@@ -82,7 +82,7 @@ article {
     margin: 0;
     padding: 1.3rem 10%;
     color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-decoration:overline;
 }
 
@@ -97,14 +97,15 @@ h1 {
 }
 
 h2{
-    margin: 0.4rem;
-    padding: 2.3rem;
+    margin: 0;
+    margin-top: 5rem;
+    padding: 0rem;
     position: absolute;
     text-align: center;
     font-size: 1.9rem;
     color: black;
     font-weight: lighter;
-    opacity: .7;
+    opacity: .8;
 }
 
 q{
