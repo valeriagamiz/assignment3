@@ -90,6 +90,10 @@ article {
     background-color: lightblue;
 }
 
+p{
+    margin-top: 1rem;
+}
+
 h1 {
     margin: -.5rem;
     opacity: .9;
